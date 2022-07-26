@@ -23,6 +23,7 @@ function Products() {
                 componentMounted = false;
             }
         }
+         getProdcuts();
         
     }, []);
 
